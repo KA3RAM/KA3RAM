@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 😶‍🌫️ About Me:
 👋 Hi there! I'm Kasra Aghayari<br><br>💻 I've been coding for about 3 years and currently working as a programmer.<br>🎓 Born in 2011, I'm studying in grade 9 (High school).<br>🔐 I'm especially interested in Front-end, Hacking, Cybersecurity, and Computer Security.<br>✨ Always curious. Always learning. Always building.<br><br>____________<br>#Free_Keyboard <br>____________<br>
 
 
